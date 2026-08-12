@@ -33,4 +33,8 @@ description: 当用户询问 landscape 路由器的配置或排障问题时使�
 
 ## 参考文档
 
-待编写,参考文档就绪后在此引用。
+- `concepts/vs-others.md` — landscape 与其他路由器的区别(定位、数据面、策略模型)
+- `concepts/default-behaviors.md` — 与常见路由器不同的默认行为(NAT 策略、凭据、已知现象)
+- `guides/internet-setup.md` — 上网所需配置(前提条件、步骤、验证)
+- `guides/troubleshooting.md` — 不能上网排查手册(逐层定位)
+- `api/api.md` — REST API 操作指南与分域文档(domains/)
